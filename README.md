@@ -1,4 +1,4 @@
-# Management-Statistics-No.4：广告战略与广告媒体对周销量的影响分析
+# Management-Statistics-No.4
 
 ## 1. 项目简介
 
